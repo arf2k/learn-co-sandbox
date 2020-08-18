@@ -1,0 +1,10 @@
+def greeting(name)
+  puts "Hello #{name}!"
+end 
+
+greeting("Xan")
+
+new_hash = {
+  created: Time.now,
+  messaage: "Hello world"
+}
